@@ -8,6 +8,21 @@ A través de XoloBot, los turistas podrán consultar las festividades y/o evento
 
 A diferencia de otros chatbots, este no busca contar una historia, busca atraer la atención a aquellos festivales y eventos que hacen único al día de muertos. 
 <hr/>
+CHATBOT REALIDAD AUMENTADA
+
+De primera instancia el bot se presentará, te preguntará si necesitas ayuda, la forma de hacer la platica del bot es muy sencilla, se implementó que el bot acepte algunas oraciones como 
+> Quiero obtener informacion de Mexico
+> Mexico
+> Quiero obtener informacion de Campeche
+> Campeche
+> Quiero obtener informacion de Puebla
+> Puebla
+
+y así respectivamente con los estados que se implementaron, en nuestro únicamente agregamos la informacion de **Mexico, Oaxaca, Campeche, Puebla y Michoacán**
+
+Para poder interactuar con el bot, es necesario el uso de la barra espaciador al de hablar para poder activar el microfono de tu computador y así el bot te pueda escuchar, cabe destacar que el chatbot de realidad aumentada no es compatible con todos los navegadores, por esta razon la recomendacion es abrirlo en navegador google chrome
+
+<hr/>
 
 ### Links de interés
 Sitio oficial
